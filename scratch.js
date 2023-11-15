@@ -6,6 +6,8 @@ const sumFunc = num => {
     return sum
 }
 
+//this is a comment  
+
 const someOtherFunc = (num1, num2) => {
     return num1 + num2
 }
